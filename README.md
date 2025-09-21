@@ -88,6 +88,7 @@ These scenarios test the robustness of Gossip and Push-Sum under realistic condi
   * ./run_simulation.sh 3000 3D gossip
     
 ## Output
+
 # gossip full
 ![WhatsApp Image 2025-09-21 at 17 10 10_97dca4b2](https://github.com/user-attachments/assets/2aadbcfe-455c-433f-9311-142b290fb226)
 
