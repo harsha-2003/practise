@@ -89,12 +89,17 @@ These scenarios test the robustness of Gossip and Push-Sum under realistic condi
     
 ## Output
 # gossip full
-
+![WhatsApp Image 2025-09-21 at 17 10 10_97dca4b2](https://github.com/user-attachments/assets/2aadbcfe-455c-433f-9311-142b290fb226)
 
 # gossip line
+![WhatsApp Image 2025-09-21 at 17 10 30_8ec4cd5e](https://github.com/user-attachments/assets/6393762b-05c8-4417-b955-d8d61eb0b38e)
 
 # gossip 3d
+![WhatsApp Image 2025-09-21 at 17 10 53_6c55b112](https://github.com/user-attachments/assets/789f4d20-8485-4dc0-907b-b9ac4ef6efc2)
+
 # gossip imp 3d
+![WhatsApp Image 2025-09-21 at 17 11 13_cc06af50](https://github.com/user-attachments/assets/33b4d67a-1395-4da7-a874-a876455309a0)
+
 # Push-sum full
 ![WhatsApp Image 2025-09-21 at 16 58 54_0b55d189](https://github.com/user-attachments/assets/80a1c24a-f7c6-40b3-a70f-546c229ae4e7)
 
