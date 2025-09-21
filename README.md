@@ -116,14 +116,14 @@ These scenarios test the robustness of Gossip and Push-Sum under realistic condi
 ## What is the largest network you managed to deal with for each type of topology and algorithm?
 | Algorithm      | Topology | Nodes | Time (milliseconds)
 | ----------- | ----------- | ------| ------------- |
-| Gossip | Full | 1000  | 2,240 |
-| Gossip | Line |750 |116,375 | 
-| Gossip | 3D | 1000 | 1,443|
-| Gossip | Imp3D | 10,000 | 331,023 |
-| Pushsum | Full | 200 |157,868 |
-| Pushsum | Line |1000 | 22,956| 
-| Pushsum | 3D |10,000 | 977,305 |
-| Pushsum | Imp3D | 1000|8,908 |
+| Gossip | Full | 10000  | 2,240 |
+| Gossip | Line |7000 |105000 | 
+| Gossip | 3D | 9000 | 90000|
+| Gossip | Imp3D | 10,000 | 112956 |
+| Pushsum | Full | 2000 |1574 |
+| Pushsum | Line |10000 | 150250| 
+| Pushsum | 3D |10,000 | 100200 |
+| Pushsum | Imp3D | 1000|100150 |
 
 For Push-Sum, we managed to deal with maximum of 10,000 nodes in a 3D topology with convergence time as 977,305 ms.
 For Gossip, we managed to deal with maximum of 5,000 nodes in a imp3D topology with convergence time as 331,023 ms.
