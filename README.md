@@ -125,6 +125,5 @@ These scenarios test the robustness of Gossip and Push-Sum under realistic condi
 | Pushsum | 3D |10,000 | 100200 |
 | Pushsum | Imp3D | 1000|100150 |
 
-For Push-Sum, we managed to deal with maximum of 10,000 nodes in a 3D topology with convergence time as 977,305 ms.
-For Gossip, we managed to deal with maximum of 5,000 nodes in a imp3D topology with convergence time as 331,023 ms.
+
 
