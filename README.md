@@ -3,8 +3,8 @@
 
 ---
 ## Group Info
-1511-8670 Jonnala Harshavardhan Reddy
-4453-0897 Chittela venkata sai Tarun Reddy
+* 1511-8670 Jonnala Harshavardhan Reddy
+* 4453-0897 Chittela venkata sai Tarun Reddy
 
 ---
 ## Explanation
@@ -82,7 +82,7 @@ These scenarios test the robustness of Gossip and Push-Sum under realistic condi
 ## Instructions
 
 * chmod +x ./run_simulation.sh
-  ./run_simulation.sh 5 line push-sum
-  ./run_simulation.sh 50 imp3D gossip
-  ./run_simulation.sh 100 full push-sum
-  ./run_simulation.sh 3000 3D gossip
+  * ./run_simulation.sh 5 line push-sum
+  * ./run_simulation.sh 50 imp3D gossip
+  * ./run_simulation.sh 100 full push-sum
+  * ./run_simulation.sh 3000 3D gossip
